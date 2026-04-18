@@ -2,31 +2,29 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![KFU](https://img.shields.io/badge/University-King%20Faisal%20University-green.svg)
-![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-orange.svg)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen.svg)
 
 ## 📌 Introduction
-This project aims to predict global video game sales using a **Support Vector Regression (SVR)** model. It was developed as part of my Data Science coursework at **King Faisal University**, focusing on applying technical logic to real-world predictive modeling.
+This project aims to predict global video game sales using a **Support Vector Regression (SVR)** model. Developed as part of my Data Science coursework at **King Faisal University**, it showcases the application of machine learning to forecast market performance.
 
-## 📊 Dataset
-The data is sourced from [Kaggle: Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings). It contains over 16,000 records, including platform, genre, and critic/user scores.
+## 📊 Dataset & Sources
+The data is sourced from [Kaggle: Video Game Sales with Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings). It includes over 16,000 records featuring platforms, genres, and ratings.
 
-## 🚀 Key Results & Technical Insights
-- **Model Performance:** Achieved an **83% R² score** using SVR.
-- **Feature Engineering:** Applied **Hybrid Feature Selection** (Pearson Correlation & Random Forest Importance).
-- **Data Prep:** Performed extensive cleaning, handling missing values, and log transformations for better model fitting.
+## 🚀 Key Results
+- **Model Accuracy:** Achieved a high **83% R² score**, proving the model's effectiveness in handling real-world data.
+- **Feature Engineering:** Implemented **Hybrid Feature Selection** (combining Pearson Correlation & Random Forest) to identify the most impactful sales drivers.
+- **Data Insights:** Focused on the correlation between critic scores and global sales success.
 
-## 🛠️ Technologies Used
-- **Language:** Python (Pandas, NumPy, Scikit-learn)
-- **Visualization:** Matplotlib, Seaborn
-- **Environment:** Jupyter Notebook
+## 🛠️ Tech Stack
+- **Language:** Python
+- **Libraries:** Pandas, NumPy, Scikit-learn.
+- **Visualization:** Matplotlib, Seaborn.
 
-## 📁 Project Structure
-- `Code/`: Contains the Jupyter Notebook with the full analysis and model.
-- `Documentation/`: Includes the full technical report (PDF).
-- `Data/`: The raw dataset used for training.
+## 📁 Repository Contents
+- **`Code/`**: The Jupyter Notebook containing data cleaning, EDA, and the SVR model.
+- **`Documentation/`**: Comprehensive technical report (PDF) detailing the methodology.
+- **`Data/`**: The dataset used for analysis.
 
-## 💡 How to Run
-To explore this project locally:
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/YourUsername/Video-Game-Sales-SVR-Prediction.git](https://github.com/YourUsername/Video-Game-Sales-SVR-Prediction.git)
+---
+*Connect with me on LinkedIn for more projects!*
+https://www.linkedin.com/in/ateka-hussain/
